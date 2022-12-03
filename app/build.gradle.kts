@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId = "com.huynn109.increase_decrease_button_demo"
-        minSdk = 29
+        minSdk = 22
         targetSdk =32
         versionCode = 1
         versionName = "1.0"
